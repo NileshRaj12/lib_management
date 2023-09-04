@@ -1,2 +1,2 @@
-# lib_management_frappe
+# lib_management
 django library mangement system 
